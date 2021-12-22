@@ -1,8 +1,8 @@
 import React from "react";
 import "./Checkout.css";
 import Subtotal from "./Subtotal";
-import CheckOurProduct from "./CheckOurProduct";
-import { getBasketTotal } from "./reducer";
+import CheckOurProduct from "./CheckOutProduct";
+//import { getBasketTotal } from "./reducer";
 import { useStateValue } from "./StateProvider";
 
 function Checkout() {

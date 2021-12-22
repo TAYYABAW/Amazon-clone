@@ -1,6 +1,6 @@
 import React from "react";
 import "./CheckOutProduct.css";
-import Product from "./Product";
+//import Product from "./Product";
 import StarIcon from "@mui/icons-material/Star";
 import { useStateValue } from "./StateProvider";
 
@@ -17,7 +17,7 @@ function CheckOurProduct({ id, image, title, price, rating }) {
 
   return (
     <div className="checkoutProduct">
-      <img className="checkoutProduct__image" src={image} />
+      <img className="checkoutProduct__image" src={image} alt={image.alt}/>
 
       <div className="checkoutProduct__info">
         <p className="checkoutProduct__title">{title}</p>
