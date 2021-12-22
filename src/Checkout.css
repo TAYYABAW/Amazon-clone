@@ -1,25 +1,25 @@
-.checkout{
-    display: flex;
-    padding: 20px;
-    background-color: white;
-    height: max-content;
+.checkout {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  margin-top: 0px;
+  margin-right: auto;
+  padding: 20px;
+
+  height: max-content;
+  max-width: 1500px;
 }
 
-.checkout__ad{
-    width: 100%;
-    margin-bottom: 10px;
+.checkout__title {
+  margin-right: 10px;
+  padding: 10px;
+  background-color: white;
+  border-bottom: 1px solid lightgray;
 }
 
-.checkout__title{
-    margin-right: 10px;
-    padding: 10px;
-    border-bottom: 1px solid lightgray;
-}
+.checkout__items{
+  display: flex;
+  flex-direction: column;
+  background-color: white;
 
-.checkout__left{
-
-}
-
-.checkout__right{
-    
 }

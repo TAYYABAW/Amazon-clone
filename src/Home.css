@@ -4,9 +4,8 @@
   margin: 0 auto;
   margin-top: 0px;
   margin-right: auto;
-  /* max-width: none; */
-  min-width: 1000px;
-  max-width: 1500px;
+  /* min-width: 500px; */
+  max-width: auto;
  
 }
 

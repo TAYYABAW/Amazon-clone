@@ -22,14 +22,14 @@ function Home() {
           />
           <Product
             id="1"
-            title="The lean startup"
+            title="The Lean Startup: How Constant Innovation Creates Radically Successfull Buisness Paperback"
             price={29.99}
             image="https://www.booksplus.pk/wp-content/uploads/2018/12/21088-The-Lean-Startup-Eric-Ries.jpg"
             rating={2}
           />
           <Product
             id="2"
-            title="The lean startup"
+            title="The Lean Startup: How Constant Innovation Creates Radically Successfull Buisness Paperback"
             price={29.99}
             image="https://www.booksplus.pk/wp-content/uploads/2018/12/21088-The-Lean-Startup-Eric-Ries.jpg"
             rating={4}
@@ -39,7 +39,7 @@ function Home() {
         <div className="home__row">
           <Product
             id="3"
-            title="The lean startup"
+            title="The Lean Startup: How Constant Innovation Creates Radically Successfull Buisness Paperback"
             price={29.99}
             image="https://www.booksplus.pk/wp-content/uploads/2018/12/21088-The-Lean-Startup-Eric-Ries.jpg"
             rating={3}
@@ -49,14 +49,14 @@ function Home() {
         <div className="home__row">
           <Product
             id="4"
-            title="The lean startup"
+            title="The Lean Startup: How Constant Innovation Creates Radically Successfull Buisness Paperback"
             price={29.99}
             image="https://www.booksplus.pk/wp-content/uploads/2018/12/21088-The-Lean-Startup-Eric-Ries.jpg"
             rating={4}
           />
           <Product
             id="5"
-            title="The lean startup"
+            title="The Lean Startup: How Constant Innovation Creates Radically Successfull Buisness Paperback"
             price={29.99}
             image="https://www.booksplus.pk/wp-content/uploads/2018/12/21088-The-Lean-Startup-Eric-Ries.jpg"
             rating={5}
