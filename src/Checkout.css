@@ -1,6 +1,6 @@
 .checkout {
   display: flex;
-  justify-content: center;
+  justify-content:space-around; 
   margin: 0 auto;
   margin-top: 0px;
   margin-right: auto;
@@ -17,9 +17,12 @@
   border-bottom: 1px solid lightgray;
 }
 
-.checkout__items{
+.checkout__items {
   display: flex;
   flex-direction: column;
   background-color: white;
+}
 
+.checkout__left {
+ 
 }

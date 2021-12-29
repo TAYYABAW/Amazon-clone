@@ -3,7 +3,7 @@ import "./Product.css";
 import StarIcon from "@mui/icons-material/Star";
 import { useStateValue } from "./StateProvider";
 
- const Product = ({ id, title, image, price, rating }) => {
+const Product = ({ id, title, image, price, rating }) => {
   const [state, dispatch] = useStateValue();
 
   const addToBasket = () => {
@@ -45,6 +45,6 @@ import { useStateValue } from "./StateProvider";
       <button onClick={addToBasket}>Add to Cart</button>
     </div>
   );
-}
+};
 
 export default Product;
