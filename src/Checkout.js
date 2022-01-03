@@ -4,10 +4,9 @@ import Subtotal from "./Subtotal";
 import CheckOurProduct from "./CheckOutProduct";
 //import { getBasketTotal } from "./reducer";
 import { useStateValue } from "./StateProvider";
-import FlipMove from "react-flip-move";
 
 function Checkout() {
-  const [{ basket, user }, dispatch] = useStateValue();
+  const [{ basket, user }] = useStateValue();
 
   return (
     <div className="checkout">

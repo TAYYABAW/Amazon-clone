@@ -18,7 +18,7 @@ const promise = loadStripe(
 );
 
 function App() {
-  const [{}, dispatch] = useStateValue();
+  const [dispatch] = useStateValue();
 
   useEffect(() => {
     //will only run once the app component loads
@@ -38,7 +38,7 @@ function App() {
         });
       }
     });
-  }, []);
+  });
   // BEM convention
   return (
     <Router>
