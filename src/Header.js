@@ -26,7 +26,11 @@ function Header() {
 
       <div className="header__search">
         <SearchIcon className="header__category" />
-        <input className="header__searchInput" type="text" />
+        <input
+          className="header__searchInput"
+          type="text"
+          placeholder="Made by MUHAMMAD TAYYAB"
+        />
         <SearchIcon className="header__searchIcon" />
       </div>
 
