@@ -1,5 +1,7 @@
 .payment {
   background-color: white;
+  margin: 50px;
+  margin-top: 0px;
   max-width: 1500px;
 }
 
@@ -32,10 +34,11 @@
 }
 
 .payment__address,
-.payment__items {
+.payment__items, .payment__details {
   flex: 0.8;
 }
 
 .payment__items {
   border: 1px solid lightgray;
 }
+
