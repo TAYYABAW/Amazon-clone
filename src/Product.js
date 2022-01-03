@@ -4,7 +4,7 @@ import StarIcon from "@mui/icons-material/Star";
 import { useStateValue } from "./StateProvider";
 
 const Product = ({ id, title, image, price, rating }) => {
-  const [dispatch] = useStateValue();
+  const [{basket}, dispatch] = useStateValue();
 
   const addToBasket = () => {
     // dispatch the item to the dataLayer

@@ -5,7 +5,7 @@ import StarIcon from "@mui/icons-material/Star";
 import { useStateValue } from "./StateProvider";
 
 function CheckOurProduct({ id, image, title, price, rating }) {
-  const [dispatch] = useStateValue();
+  const [{basket}, dispatch] = useStateValue();
 
   const removeFromBasket = () => {
     //remove from basket

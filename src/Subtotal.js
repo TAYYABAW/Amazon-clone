@@ -8,7 +8,7 @@ import { getBasketTotal } from "./reducer";
 
 const Subtotal = () => {
   const navigate = useNavigate("");
-  const [{ basket }] = useStateValue();
+  const [{ basket }, dispatch] = useStateValue();
 
   return (
     <div className="subtotal">
