@@ -1,11 +1,10 @@
 .checkout {
   display: flex;
-  justify-content:space-around; 
+  justify-content: space-between;
   margin: 0 auto;
   margin-top: 0px;
   margin-right: auto;
   padding: 20px;
-
   height: max-content;
   max-width: 1500px;
 }
@@ -23,6 +22,6 @@
   background-color: white;
 }
 
-.checkout__left {
- 
+.checkout__right{
+  margin-left: 20px;
 }
