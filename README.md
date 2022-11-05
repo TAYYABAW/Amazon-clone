@@ -29,3 +29,54 @@ Open [`https://challenge-9bd86.web.app/`](https://challenge-9bd86.web.app/) to v
 <img align="center" src="./assets/LoginPage.png">
 <img align="center" src="./assets/CartPage.png">
 
+## 💻 Getting started
+
+### Requirements
+
+- [Node.js](https://nodejs.org/en/)
+- [Yarn](https://classic.yarnpkg.com/) or [npm](https://www.npmjs.com/)
+
+**Clone the project and access the folder**
+
+```bash
+$ git clone https://github.com/TAYYABAW/amazon-clone.git
+
+$ cd amazon-clone
+```
+
+**Follow the steps below**
+
+```bash
+# Install the dependencies
+$ yarn # or $ npm install
+
+# Run the web app
+$ yarn start # or $ npm start
+
+```
+
+## 🤔 How to contribute
+
+**Follow the steps below**
+
+```bash
+# Clone your fork
+$ git clone https://github.com/TAYYABAW/amazon-clone.git
+
+$ cd amazon-clone
+
+# Create a branch with your feature
+$ git checkout -b your-feature
+
+# Make the commit with your changes
+$ git commit -m 'feat: Your new feature'
+
+# Send the code to your remote branch
+$ git push origin your-feature
+```
+
+After your pull request is merged, you can delete your branch
+
+## 📝 License
+
+This project is under the MIT license. See the [LICENSE](https://github.com/TAYYABAW/amazon-clone/blob/master/LICENSE) for more information.
