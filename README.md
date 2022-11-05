@@ -48,10 +48,14 @@ $ cd amazon-clone
 
 ```bash
 # Install the dependencies
-$ yarn # or $ npm install
+$ yarn 
+# or 
+$ npm install
 
 # Run the web app
-$ yarn start # or $ npm start
+$ yarn start 
+# or 
+$ npm start
 
 ```
 
