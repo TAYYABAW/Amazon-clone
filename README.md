@@ -1,4 +1,3 @@
-# amazon-clone
 ## 💬 Amazon Clone using React.js
 
 This project is a Full-stack fully functional Amazon clone application using JavaScript, React.js, Material-UI, and some Firebase services like Firebase hosting and Cloud Database.
