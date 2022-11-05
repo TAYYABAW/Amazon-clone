@@ -26,7 +26,7 @@ Open [`https://challenge-9bd86.web.app/`](https://challenge-9bd86.web.app/) to v
 
 ## 📱 Project View
 
-<img align="left" src="https://user-images.githubusercontent.com/32739028/103157561-efb4a200-47d9-11eb-804b-c317cb8b1dfa.png">
-<img align="right" src="https://user-images.githubusercontent.com/32739028/103157562-f17e6580-47d9-11eb-83f2-0eea14f5e7d0.png">
-<img align="left" src="https://user-images.githubusercontent.com/32739028/103157577-1d015000-47da-11eb-9fe9-1d941d103a1a.png">
-<img align="right" src="https://user-images.githubusercontent.com/32739028/103157600-94cf7a80-47da-11eb-9ad9-a0a9b5a6d6c2.png">
+<img align="center" src="./assets/LandingPage.png">
+<img align="center" src="./assets/LoginPage.png">
+<img align="center" src="./assets/CartPage.png">
+
